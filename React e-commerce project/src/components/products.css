@@ -1,0 +1,19 @@
+.prod {
+  width: 300px;
+}
+.prod img {
+  height: 250px;
+}
+
+.prod button:hover span {
+  display: none;
+}
+.prod button:hover:before {
+  content: "Add To Cart";
+}
+.filt {
+  list-style: none;
+}
+.filt li {
+  display: inline-block;
+}
