@@ -1,0 +1,6 @@
+.App {
+  text-align: center;
+}
+.bgGradient {
+  background-image: linear-gradient(to bottom, white 0%, black 100%);
+}
