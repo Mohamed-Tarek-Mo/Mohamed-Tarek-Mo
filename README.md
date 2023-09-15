@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohamed Tarek Mohamed
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning web programming
-- 💞️ I’m looking to collaborate on front end web projects - python programming - java programming - javascript programming
+ A skilled and motivated Front-End Developer, seeking a role in a dynamic and innovative organization where I can 
+ utilize my technical skills, creativity, and passion for web development to contribute to the growth and success of the 
+ company
 - 📫 How to reach me: mohamedtar425@gmail.com
 
 <!---
